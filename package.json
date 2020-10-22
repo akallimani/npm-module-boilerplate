@@ -1,5 +1,5 @@
 {
-  "name": "npm-module-boilerplate",
+  "name": "npm-module-boilerplate-aish",
   "version": "1.0.0",
   "description": "Boilerplate for npm modules with ES6 features and syntax",
   "main": "./lib/index.js",
